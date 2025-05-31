@@ -21,7 +21,7 @@
     "formats": []
   },
   "gameplay": {
-    "0ec3813b-791e-4c39-9579-e05b6e53df8a": {
+    "Classic": {
       "mulligan": {
         "info": "",
         "startingHandSize": 7,
@@ -38,7 +38,7 @@
       "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [
-        "1"
+        "30"
       ],
       "hideFacedDownCards": false,
       "sections": {
