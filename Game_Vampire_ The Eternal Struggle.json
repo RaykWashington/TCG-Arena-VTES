@@ -1,0 +1,204 @@
+{
+  "name": "Vampire: The Eternal Struggle",
+  "menuBackgroundImage": "https://usercontent.one/wp/www.blackchantry.com/wp-content/uploads/2020/02/VTES-Fifth-Edition-Samuel-Araya-961x1024.jpg?media=1737972471",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://vtes.global/playmats/V1-Global.jpg",
+      "https://vtes.global/playmats/V2-Global.jpg",
+      "https://vtes.global/playmats/V6-Global.jpg",
+      "https://vtes.global/playmats/V8-Global.jpg"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": 45,
+  "cards": {
+    "dataUrl": "https://raykwashington.github.io/TCG-Arena-VTES/VTES_Cardlist.json",
+    "cardBack": "https://static.krcg.org/card/cardbacklibrary.jpg"
+  },
+  "deckBuilding": {
+    "mainFilters": [],
+    "formats": []
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": 7,
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        "30"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Ready",
+          "Uncontrolled/Torpor"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "section": "Ready",
+              "style": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Uncontrolled/Torpor",
+                  "style": ""
+                },
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Crypt",
+                      "style": false
+                    },
+                    {
+                      "section": "Library",
+                      "style": false
+                    },
+                    {
+                      "section": "Discard",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Crypt",
+          "Library"
+        ],
+        "autoPlayFromHand": {
+          "Equipment": "Ready",
+          "Combat": "Ready",
+          "Reaction": "Ready",
+          "Power": "Ready",
+          "Ally": "Ready",
+          "Action Modifier": "Ready",
+          "Political Action": "Ready",
+          "Event": "Ready",
+          "Vampire": "Ready",
+          "Imbued": "Ready",
+          "Master": "Ready"
+        },
+        "autoPlayFromStack": {
+          "Equipment": "Discard",
+          "Combat": "Discard",
+          "Reaction": "",
+          "Power": "",
+          "Ally": "",
+          "Action Modifier": "",
+          "Political Action": "",
+          "Event": "",
+          "Master": "",
+          "Vampire": "",
+          "Imbued": ""
+        },
+        "sectionsDict": {
+          "Ready": {
+            "title": "Ready",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Ready",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Uncontrolled/Torpor": {
+            "title": "Uncontrolled/Torpor",
+            "isHidden": "opponent-only",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Crypt": {
+            "title": "Crypt",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Library": {
+            "title": "Library",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
