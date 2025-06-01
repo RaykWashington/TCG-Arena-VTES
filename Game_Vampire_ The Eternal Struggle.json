@@ -43,11 +43,18 @@
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
-        "firstPlayerTokenName": "",
+        "firstPlayerTokenName": "Edge",
         "drawPerTurn": 1
       },
       "defaultNotes": "",
-      "tokens": [],
+      "tokens": [
+        {
+          "name": "Edge",
+          "image": "https://static.krcg.org/card/token/edge2.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": true
+        }
+      ],
       "countersStartingValues": [
         "30"
       ],
