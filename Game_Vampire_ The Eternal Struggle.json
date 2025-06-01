@@ -19,9 +19,11 @@
   "deckBuilding": {
     "mainFilters": [
       "name",
-      "type",
-      "clans",
-      "capacity"
+      "types",
+      "capacity",
+      "clan",
+      "group",
+      "disciplines"
     ],
     "formats": [
       {
@@ -100,30 +102,12 @@
         },
         "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {
-          "Equipment": "Ready",
-          "Combat": "Ready",
-          "Reaction": "Ready",
-          "Power": "Ready",
-          "Ally": "Ready",
-          "Action Modifier": "Ready",
-          "Political Action": "Ready",
-          "Event": "Ready",
-          "Vampire": "Ready",
-          "Imbued": "Ready",
-          "Master": "Ready"
+          "Crypt": "Uncontrolled",
+          "Library": "Ready"
         },
         "autoPlayFromStack": {
-          "Equipment": "Discard",
-          "Combat": "Discard",
-          "Reaction": "",
-          "Power": "",
-          "Ally": "",
-          "Action Modifier": "",
-          "Political Action": "",
-          "Event": "",
-          "Master": "",
-          "Vampire": "",
-          "Imbued": ""
+          "Crypt": "Ready",
+          "Library": "Ready"
         },
         "sectionsDict": {
           "Ready": {
