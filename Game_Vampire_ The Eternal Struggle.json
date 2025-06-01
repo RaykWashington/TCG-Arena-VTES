@@ -1,0 +1,180 @@
+{
+  "name": "Vampire: The Eternal Struggle",
+  "menuBackgroundImage": "https://usercontent.one/wp/www.blackchantry.com/wp-content/uploads/2020/02/VTES-Fifth-Edition-Samuel-Araya-961x1024.jpg?media=1737972471",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://vtes.global/playmats/V1-Global.jpg",
+      "https://vtes.global/playmats/V2-Global.jpg",
+      "https://vtes.global/playmats/V6-Global.jpg",
+      "https://vtes.global/playmats/V8-Global.jpg"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": 45,
+  "cards": {
+    "dataUrl": "https://raykwashington.github.io/TCG-Arena-VTES/VTES_Cardlist.json",
+    "cardBack": "https://static.krcg.org/card/cardbacklibrary.jpg"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "name",
+      "type",
+      "clans",
+      "capacity"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": 7,
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "Edge",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [
+        {
+          "name": "Edge",
+          "image": "https://static.krcg.org/card/token/edge2.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": true
+        }
+      ],
+      "countersStartingValues": [
+        "30"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Ready",
+          "Uncontrolled",
+          "Crypt"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "section": "Ready",
+              "style": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Uncontrolled",
+                  "style": ""
+                },
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Crypt",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {
+          "Equipment": "Ready",
+          "Combat": "Ready",
+          "Reaction": "Ready",
+          "Power": "Ready",
+          "Ally": "Ready",
+          "Action Modifier": "Ready",
+          "Political Action": "Ready",
+          "Event": "Ready",
+          "Vampire": "Ready",
+          "Imbued": "Ready",
+          "Master": "Ready"
+        },
+        "autoPlayFromStack": {
+          "Equipment": "Discard",
+          "Combat": "Discard",
+          "Reaction": "",
+          "Power": "",
+          "Ally": "",
+          "Action Modifier": "",
+          "Political Action": "",
+          "Event": "",
+          "Master": "",
+          "Vampire": "",
+          "Imbued": ""
+        },
+        "sectionsDict": {
+          "Ready": {
+            "title": "Ready",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Ready",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Crypt": {
+            "title": "Crypt",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Uncontrolled": {
+            "title": "Uncontrolled",
+            "isHidden": "opponent-only",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
