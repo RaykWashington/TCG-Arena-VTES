@@ -17,8 +17,19 @@
     "cardBack": "https://static.krcg.org/card/cardbacklibrary.jpg"
   },
   "deckBuilding": {
-    "mainFilters": [],
-    "formats": []
+    "mainFilters": [
+      "name",
+      "type",
+      "clans",
+      "capacity"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic gameplay, sei la.",
+        "customCategories": []
+      }
+    ]
   },
   "gameplay": {
     "Classic": {
