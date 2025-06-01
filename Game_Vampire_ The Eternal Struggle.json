@@ -13,7 +13,7 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://raykwashington.github.io/TCG-Arena-VTES/VTES_Cardlist.json",
+    "dataUrl": "https://raykwashington.github.io/TCG-Arena-VTES/VTES_Cards.json",
     "cardBack": "https://static.krcg.org/card/cardbacklibrary.jpg"
   },
   "deckBuilding": {
