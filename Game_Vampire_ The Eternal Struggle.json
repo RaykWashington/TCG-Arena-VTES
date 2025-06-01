@@ -1,5 +1,5 @@
 {
-  "name": "Vampire: The Eternal Struggle",
+  "name": "Vampire The Eternal Struggle",
   "menuBackgroundImage": "https://usercontent.one/wp/www.blackchantry.com/wp-content/uploads/2020/02/VTES-Fifth-Edition-Samuel-Araya-961x1024.jpg?media=1737972471",
   "defaultRessources": {
     "backgrounds": [
@@ -35,7 +35,7 @@
     "Classic": {
       "mulligan": {
         "info": "",
-        "startingHandSize": 7,
+        "startingHandSize": "7",
         "drawNewHand": true,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
@@ -56,7 +56,8 @@
         }
       ],
       "countersStartingValues": [
-        "30"
+        "30",
+        0
       ],
       "hideFacedDownCards": false,
       "sections": {
@@ -67,7 +68,7 @@
         ],
         "layout": {
           "direction": "column",
-          "isSymetricalForOpponents": false,
+          "isSymetricalForOpponents": true,
           "content": [
             {
               "section": "Ready",
