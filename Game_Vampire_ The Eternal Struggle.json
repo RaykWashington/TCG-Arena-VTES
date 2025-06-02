@@ -58,14 +58,13 @@
       "countersStartingValues": [
         "30"
       ],
-      "hideFacedDownCards": false,
+      "hideFacedDownCards": true,
       "sections": {
         "customSections": [
           "Ready",
           "Uncontrolled",
           "Crypt",
-          "Torpor",
-          "Pool"
+          "Torpor"
         ],
         "layout": {
           "direction": "column",
@@ -84,13 +83,6 @@
                 {
                   "section": "Ready",
                   "style": false
-                },
-                {
-                  "section": "Pool",
-                  "style": {
-                    "width": "32vh",
-                    "marginRight": "8vh"
-                  }
                 }
               ],
               "isSymetricalForOpponents": false
