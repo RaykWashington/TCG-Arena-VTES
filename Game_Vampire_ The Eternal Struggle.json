@@ -3,12 +3,12 @@
   "menuBackgroundImage": "https://usercontent.one/wp/www.blackchantry.com/wp-content/uploads/2020/02/VTES-Fifth-Edition-Samuel-Araya-961x1024.jpg?media=1737972471",
   "defaultRessources": {
     "backgrounds": [
-      "https://vtes.global/playmats/V1-Global.jpg",
-      "https://vtes.global/playmats/V2-Global.jpg",
-      "https://vtes.global/playmats/V6-Global.jpg",
-      "https://vtes.global/playmats/V8-Global.jpg"
+      "https://raykwashington.github.io/TCG-Arena-VTES/images/Playmat-Faceless-Night-1024x604.jpg",
+      "https://raykwashington.github.io/TCG-Arena-VTES/images/Playmat-Camarilla-Segregation-1024x605.jpg",
+      "https://vtes.global/playmats/V9-Global.jpg",
+      "https://vtes.global/playmats/V2-Global.jpg"
     ],
-    "decksUrl": ""
+    "decksUrl": "https://raykwashington.github.io/TCG-Arena-VTES/VTES_StarterDecks.json"
   },
   "customHelp": "",
   "cardRotation": "90",
@@ -20,10 +20,8 @@
     "mainFilters": [
       "name",
       "subtype",
-      "capacity",
       "clan",
-      "group",
-      "disciplines"
+      "group"
     ],
     "formats": [
       {
