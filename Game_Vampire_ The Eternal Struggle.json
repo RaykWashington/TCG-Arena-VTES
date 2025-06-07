@@ -20,9 +20,9 @@
   "deckBuilding": {
     "mainFilters": [
       "name",
-      "subtype",
-      "clan",
-      "group"
+      "type",
+      "group",
+      "disciplines"
     ],
     "formats": [
       {
@@ -137,7 +137,7 @@
           },
           "Crypt": {
             "title": "Crypt",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
@@ -156,22 +156,6 @@
             "isHidden": "opponent-only",
             "height": "SMALL",
             "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Pool": {
-            "title": "Pool",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
