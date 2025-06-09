@@ -112,12 +112,36 @@
           "Crypt"
         ],
         "autoPlayFromHand": {
+          "Equipment": "Ready",
+          "Combat": "Ready",
+          "Power": "Ready",
+          "Master": "Ready",
+          "Event": "Ready",
+          "Action Modifier": "Stack",
+          "Action": "Stack",
+          "Political Action": "Stack",
+          "Reaction": "Stack",
+          "Retainer": "Ready",
+          "Conviction": "Ready",
+          "Vampire": "Uncontrolled",
           "Crypt": "Uncontrolled",
-          "Library": "Ready"
+          "Imbued": "Uncontrolled"
         },
         "autoPlayFromStack": {
-          "Crypt": "Ready",
-          "Library": "Ready"
+          "Equipment": "Ready",
+          "Combat": "Ready",
+          "Power": "Ready",
+          "Master": "Ready",
+          "Event": "Ready",
+          "Action Modifier": "Discard",
+          "Action": "Discard",
+          "Political Action": "Ready",
+          "Reaction": "Discard",
+          "Retainer": "Ready",
+          "Conviction": "Ready",
+          "Vampire": "Ready",
+          "Crypt": "Uncontrolled",
+          "Imbued": "Ready"
         },
         "sectionsDict": {
           "Hand": {

@@ -1,19 +1,22 @@
 [
  {
   "title": "Nosferatu",
-  "id": "fca3083c-1ed6-4c76-a485-feb469525032",
+  "id": "da943040-2a95-4e82-a8d8-6e77c05b2051",
   "game": "Vampire The Eternal Struggle",
   "format": "Classic",
   "cardCount": 76,
-  "createdAt": "2025-06-02T00:04:55.330Z",
-  "lastModifiedAt": "2025-06-02T00:09:17.963Z",
+  "createdAt": "2025-06-09T07:01:18.519Z",
+  "lastModifiedAt": "2025-06-09T07:56:06.197Z",
   "deckList": {
     "categoriesOrder": [
-      "Crypt",
-      "Library"
+      "Vampire",
+      "Action Modifier",
+      "Political Action",
+      "Master",
+      "Action"
     ],
     "Sideboard": [],
-    "Crypt": [
+    "Vampire": [
       {
         "count": 1,
         "id": "200235"
@@ -35,6 +38,10 @@
         "id": "200417"
       },
       {
+        "count": 2,
+        "id": "201060"
+      },
+      {
         "count": 1,
         "id": "200776"
       },
@@ -45,53 +52,9 @@
       {
         "count": 1,
         "id": "201022"
-      },
-      {
-        "count": 2,
-        "id": "201060"
       }
     ],
-    "Library": [
-      {
-        "count": 1,
-        "id": "100632"
-      },
-      {
-        "count": 1,
-        "id": "101070"
-      },
-      {
-        "count": 2,
-        "id": "101707"
-      },
-      {
-        "count": 2,
-        "id": "101708"
-      },
-      {
-        "count": 1,
-        "id": "101808"
-      },
-      {
-        "count": 4,
-        "id": "102121"
-      },
-      {
-        "count": 1,
-        "id": "102149"
-      },
-      {
-        "count": 5,
-        "id": "102207"
-      },
-      {
-        "count": 1,
-        "id": "101690"
-      },
-      {
-        "count": 8,
-        "id": "101973"
-      },
+    "Action Modifier": [
       {
         "count": 4,
         "id": "100069"
@@ -111,7 +74,9 @@
       {
         "count": 2,
         "id": "102097"
-      },
+      }
+    ],
+    "Political Action": [
       {
         "count": 6,
         "id": "100410"
@@ -124,24 +89,228 @@
         "count": 4,
         "id": "101353"
       }
+    ],
+    "Master": [
+      {
+        "count": 1,
+        "id": "100632"
+      },
+      {
+        "count": 2,
+        "id": "101708"
+      },
+      {
+        "count": 1,
+        "id": "102149"
+      },
+      {
+        "count": 5,
+        "id": "102207"
+      },
+      {
+        "count": 1,
+        "id": "101070"
+      },
+      {
+        "count": 2,
+        "id": "101707"
+      },
+      {
+        "count": 4,
+        "id": "102121"
+      },
+      {
+        "count": 1,
+        "id": "101808"
+      }
+    ],
+    "Action": [
+      {
+        "count": 8,
+        "id": "101973"
+      },
+      {
+        "count": 1,
+        "id": "101690"
+      }
+    ]
+  }
+},
+{
+  "title": "Ventrue",
+  "id": "4a54b7ad-63c1-4f41-a909-414ae78d4e35",
+  "game": "Vampire The Eternal Struggle",
+  "format": "Classic",
+  "cardCount": 78,
+  "createdAt": "2025-06-09T07:33:27.678Z",
+  "lastModifiedAt": "2025-06-09T08:00:22.021Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Vampire",
+      "Master",
+      "Action",
+      "Action Modifier",
+      "Political Action",
+      "Combat",
+      "Reaction"
+    ],
+    "Sideboard": [],
+    "Vampire": [
+      {
+        "count": 3,
+        "id": "200419"
+      },
+      {
+        "count": 1,
+        "id": "200869"
+      },
+      {
+        "count": 1,
+        "id": "201139"
+      },
+      {
+        "count": 1,
+        "id": "201162"
+      },
+      {
+        "count": 3,
+        "id": "201292"
+      },
+      {
+        "count": 2,
+        "id": "201372"
+      },
+      {
+        "count": 1,
+        "id": "201468"
+      }
+    ],
+    "Master": [
+      {
+        "count": 1,
+        "id": "100620"
+      },
+      {
+        "count": 1,
+        "id": "100654"
+      },
+      {
+        "count": 1,
+        "id": "102084"
+      },
+      {
+        "count": 1,
+        "id": "102109"
+      },
+      {
+        "count": 2,
+        "id": "102113"
+      },
+      {
+        "count": 1,
+        "id": "102180"
+      },
+      {
+        "count": 1,
+        "id": "100435"
+      },
+      {
+        "count": 1,
+        "id": "100444"
+      },
+      {
+        "count": 1,
+        "id": "100588"
+      }
+    ],
+    "Action": [
+      {
+        "count": 3,
+        "id": "100640"
+      },
+      {
+        "count": 8,
+        "id": "100845"
+      }
+    ],
+    "Action Modifier": [
+      {
+        "count": 8,
+        "id": "100788"
+      },
+      {
+        "count": 3,
+        "id": "101712"
+      },
+      {
+        "count": 2,
+        "id": "100157"
+      },
+      {
+        "count": 3,
+        "id": "102131"
+      },
+      {
+        "count": 4,
+        "id": "100401"
+      },
+      {
+        "count": 2,
+        "id": "100492"
+      }
+    ],
+    "Political Action": [
+      {
+        "count": 1,
+        "id": "100059"
+      },
+      {
+        "count": 4,
+        "id": "101056"
+      },
+      {
+        "count": 4,
+        "id": "101353"
+      }
+    ],
+    "Combat": [
+      {
+        "count": 6,
+        "id": "101144"
+      }
+    ],
+    "Reaction": [
+      {
+        "count": 2,
+        "id": "101706"
+      },
+      {
+        "count": 6,
+        "id": "100518"
+      }
     ]
   }
 },
 {
   "title": "Brujah",
-  "id": "2e3b3ca3-5aa8-4077-97fb-986fbd914668",
+  "id": "6e295a78-d686-41fb-9b71-952ce004861c",
   "game": "Vampire The Eternal Struggle",
   "format": "Classic",
   "cardCount": 79,
-  "createdAt": "2025-06-02T00:10:55.283Z",
-  "lastModifiedAt": "2025-06-02T00:12:03.179Z",
+  "createdAt": "2025-06-09T08:02:55.611Z",
+  "lastModifiedAt": "2025-06-09T08:03:58.213Z",
   "deckList": {
     "categoriesOrder": [
-      "Crypt",
-      "Library"
+      "Vampire",
+      "Master",
+      "Action",
+      "Reaction",
+      "Combat",
+      "Equipment",
+      "Action Modifier"
     ],
     "Sideboard": [],
-    "Crypt": [
+    "Vampire": [
       {
         "count": 1,
         "id": "200120"
@@ -163,7 +332,7 @@
         "id": "200364"
       }
     ],
-    "Library": [
+    "Master": [
       {
         "count": 2,
         "id": "100199"
@@ -195,7 +364,9 @@
       {
         "count": 1,
         "id": "102180"
-      },
+      }
+    ],
+    "Action": [
       {
         "count": 4,
         "id": "100266"
@@ -203,15 +374,19 @@
       {
         "count": 8,
         "id": "100845"
-      },
+      }
+    ],
+    "Reaction": [
       {
         "count": 4,
-        "id": "101978"
+        "id": "100518"
       },
       {
-        "count": 4,
-        "id": "102205"
-      },
+        "count": 8,
+        "id": "101706"
+      }
+    ],
+    "Combat": [
       {
         "count": 6,
         "id": "100959"
@@ -231,37 +406,46 @@
       {
         "count": 8,
         "id": "101993"
-      },
+      }
+    ],
+    "Equipment": [
       {
         "count": 1,
         "id": "101081"
+      }
+    ],
+    "Action Modifier": [
+      {
+        "count": 4,
+        "id": "101978"
       },
       {
         "count": 4,
-        "id": "100518"
-      },
-      {
-        "count": 8,
-        "id": "101706"
+        "id": "102205"
       }
     ]
   }
 },
 {
   "title": "Tremere",
-  "id": "4bafe890-1dc2-4130-b195-e10443e7e8c8",
+  "id": "32b4ec9c-4a98-4038-b946-eef9d3d916e5",
   "game": "Vampire The Eternal Struggle",
   "format": "Classic",
   "cardCount": 72,
-  "createdAt": "2025-06-02T00:17:15.956Z",
-  "lastModifiedAt": "2025-06-02T00:18:24.428Z",
+  "createdAt": "2025-06-09T08:04:49.077Z",
+  "lastModifiedAt": "2025-06-09T08:09:27.068Z",
   "deckList": {
     "categoriesOrder": [
-      "Crypt",
-      "Library"
+      "Vampire",
+      "Equipment",
+      "Master",
+      "Ally",
+      "Reaction",
+      "Action",
+      "Retainer"
     ],
     "Sideboard": [],
-    "Crypt": [
+    "Vampire": [
       {
         "count": 2,
         "id": "200031"
@@ -303,7 +487,29 @@
         "id": "201509"
       }
     ],
-    "Library": [
+    "Equipment": [
+      {
+        "count": 1,
+        "id": "100001"
+      },
+      {
+        "count": 1,
+        "id": "100243"
+      },
+      {
+        "count": 1,
+        "id": "101014"
+      },
+      {
+        "count": 1,
+        "id": "101816"
+      },
+      {
+        "count": 1,
+        "id": "101856"
+      }
+    ],
+    "Master": [
       {
         "count": 1,
         "id": "100015"
@@ -343,11 +549,9 @@
       {
         "count": 2,
         "id": "102151"
-      },
-      {
-        "count": 5,
-        "id": "101143"
-      },
+      }
+    ],
+    "Ally": [
       {
         "count": 1,
         "id": "100298"
@@ -355,31 +559,9 @@
       {
         "count": 1,
         "id": "101419"
-      },
-      {
-        "count": 1,
-        "id": "101249"
-      },
-      {
-        "count": 1,
-        "id": "100001"
-      },
-      {
-        "count": 1,
-        "id": "100243"
-      },
-      {
-        "count": 1,
-        "id": "101014"
-      },
-      {
-        "count": 1,
-        "id": "101816"
-      },
-      {
-        "count": 1,
-        "id": "101856"
-      },
+      }
+    ],
+    "Reaction": [
       {
         "count": 2,
         "id": "100519"
@@ -424,314 +606,158 @@
         "count": 2,
         "id": "102137"
       }
+    ],
+    "Action": [
+      {
+        "count": 5,
+        "id": "101143"
+      }
+    ],
+    "Retainer": [
+      {
+        "count": 1,
+        "id": "101249"
+      }
     ]
   }
 },
 {
-  "title": "Lassombra",
-  "id": "6e391060-de48-4ca4-956b-2febabd8e9a5",
+  "title": "Caitiff",
+  "id": "f19e048c-dc36-4dff-9fcc-c2d6fddd31c0",
   "game": "Vampire The Eternal Struggle",
   "format": "Classic",
-  "cardCount": 84,
-  "createdAt": "2025-06-02T00:19:22.404Z",
-  "lastModifiedAt": "2025-06-02T00:22:51.404Z",
+  "cardCount": 73,
+  "createdAt": "2025-06-09T08:11:40.996Z",
+  "lastModifiedAt": "2025-06-09T08:15:05.205Z",
   "deckList": {
     "categoriesOrder": [
-      "Crypt",
-      "Library"
+      "Vampire",
+      "Action Modifier",
+      "Action",
+      "Reaction",
+      "Combat",
+      "Master"
     ],
     "Sideboard": [],
-    "Crypt": [
+    "Vampire": [
       {
         "count": 1,
-        "id": "200003"
-      },
-      {
-        "count": 1,
-        "id": "200063"
-      },
-      {
-        "count": 2,
-        "id": "200476"
-      },
-      {
-        "count": 2,
-        "id": "200534"
-      },
-      {
-        "count": 2,
-        "id": "200915"
+        "id": "200112"
       },
       {
         "count": 1,
-        "id": "200982"
+        "id": "200273"
       },
       {
         "count": 1,
-        "id": "200070"
+        "id": "200477"
+      },
+      {
+        "count": 1,
+        "id": "200737"
+      },
+      {
+        "count": 1,
+        "id": "200898"
+      },
+      {
+        "count": 1,
+        "id": "200913"
+      },
+      {
+        "count": 1,
+        "id": "201027"
+      },
+      {
+        "count": 1,
+        "id": "201059"
+      },
+      {
+        "count": 1,
+        "id": "201073"
+      },
+      {
+        "count": 1,
+        "id": "201208"
+      },
+      {
+        "count": 1,
+        "id": "201231"
+      },
+      {
+        "count": 1,
+        "id": "201301"
       }
     ],
-    "Library": [
+    "Action Modifier": [
+      {
+        "count": 2,
+        "id": "100323"
+      },
+      {
+        "count": 2,
+        "id": "100401"
+      },
+      {
+        "count": 6,
+        "id": "101098"
+      }
+    ],
+    "Action": [
+      {
+        "count": 14,
+        "id": "100390"
+      }
+    ],
+    "Reaction": [
+      {
+        "count": 4,
+        "id": "100518"
+      },
+      {
+        "count": 2,
+        "id": "100519"
+      },
+      {
+        "count": 4,
+        "id": "102137"
+      }
+    ],
+    "Combat": [
+      {
+        "count": 4,
+        "id": "100567"
+      },
+      {
+        "count": 4,
+        "id": "100834"
+      },
+      {
+        "count": 5,
+        "id": "101942"
+      }
+    ],
+    "Master": [
       {
         "count": 2,
         "id": "100588"
       },
       {
-        "count": 1,
-        "id": "100710"
-      },
-      {
-        "count": 1,
-        "id": "100824"
+        "count": 6,
+        "id": "100616"
       },
       {
         "count": 1,
         "id": "100984"
       },
       {
-        "count": 1,
-        "id": "101238"
-      },
-      {
-        "count": 1,
-        "id": "101384"
-      },
-      {
-        "count": 1,
-        "id": "101430"
-      },
-      {
-        "count": 5,
-        "id": "102121"
-      },
-      {
         "count": 3,
-        "id": "102207"
-      },
-      {
-        "count": 7,
-        "id": "100845"
-      },
-      {
-        "count": 1,
-        "id": "100645"
-      },
-      {
-        "count": 3,
-        "id": "101712"
-      },
-      {
-        "count": 5,
-        "id": "101743"
-      },
-      {
-        "count": 4,
-        "id": "101774"
-      },
-      {
-        "count": 3,
-        "id": "101775"
+        "id": "101104"
       },
       {
         "count": 2,
-        "id": "101957"
-      },
-      {
-        "count": 5,
-        "id": "102131"
-      },
-      {
-        "count": 2,
-        "id": "100758"
-      },
-      {
-        "count": 1,
-        "id": "100064"
-      },
-      {
-        "count": 2,
-        "id": "100065"
-      },
-      {
-        "count": 2,
-        "id": "100131"
-      },
-      {
-        "count": 5,
-        "id": "101056"
-      },
-      {
-        "count": 1,
-        "id": "101271"
-      },
-      {
-        "count": 1,
-        "id": "101417"
-      },
-      {
-        "count": 1,
-        "id": "101591"
-      },
-      {
-        "count": 4,
-        "id": "101735"
-      },
-      {
-        "count": 1,
-        "id": "101261"
-      },
-      {
-        "count": 4,
-        "id": "100518"
-      },
-      {
-        "count": 3,
-        "id": "101321"
-      },
-      {
-        "count": 1,
-        "id": "101578"
-      },
-	  {
-  "title": "Ventrue",
-  "id": "bef6b52a-2d37-4dc8-ab51-992e94b2f565",
-  "game": "Vampire The Eternal Struggle",
-  "format": "Classic",
-  "cardCount": 78,
-  "createdAt": "2025-06-08T23:03:12.457Z",
-  "lastModifiedAt": "2025-06-08T23:08:09.001Z",
-  "deckList": {
-    "categoriesOrder": [
-      "Crypt",
-      "Library"
-    ],
-    "Sideboard": [],
-    "Crypt": [
-      {
-        "count": 3,
-        "id": "200419"
-      },
-      {
-        "count": 1,
-        "id": "200869"
-      },
-      {
-        "count": 1,
-        "id": "201139"
-      },
-      {
-        "count": 1,
-        "id": "201162"
-      },
-      {
-        "count": 3,
-        "id": "201292"
-      },
-      {
-        "count": 2,
-        "id": "201372"
-      },
-      {
-        "count": 1,
-        "id": "201468"
+        "id": "102151"
       }
-    ],
-    "Library": [
-      {
-        "count": 1,
-        "id": "100620"
-      },
-      {
-        "count": 1,
-        "id": "100654"
-      },
-      {
-        "count": 1,
-        "id": "102084"
-      },
-      {
-        "count": 1,
-        "id": "102109"
-      },
-      {
-        "count": 2,
-        "id": "102113"
-      },
-      {
-        "count": 1,
-        "id": "102180"
-      },
-      {
-        "count": 1,
-        "id": "100435"
-      },
-      {
-        "count": 1,
-        "id": "100444"
-      },
-      {
-        "count": 1,
-        "id": "100588"
-      },
-      {
-        "count": 3,
-        "id": "100640"
-      },
-      {
-        "count": 8,
-        "id": "100845"
-      },
-      {
-        "count": 8,
-        "id": "100788"
-      },
-      {
-        "count": 3,
-        "id": "101712"
-      },
-      {
-        "count": 2,
-        "id": "100157"
-      },
-      {
-        "count": 3,
-        "id": "102131"
-      },
-      {
-        "count": 4,
-        "id": "100401"
-      },
-      {
-        "count": 2,
-        "id": "100492"
-      },
-      {
-        "count": 1,
-        "id": "100059"
-      },
-      {
-        "count": 4,
-        "id": "101056"
-      },
-      {
-        "count": 4,
-        "id": "101353"
-      },
-      {
-        "count": 6,
-        "id": "101144"
-      },
-      {
-        "count": 2,
-        "id": "101706"
-      },
-      {
-        "count": 6,
-        "id": "100518"
-      }
-    ]
-  }
-}
     ]
   }
 }
