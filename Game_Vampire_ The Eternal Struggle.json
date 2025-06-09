@@ -37,7 +37,7 @@
       "mulligan": {
         "info": "",
         "startingHandSize": "7",
-        "drawNewHand": true,
+        "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
@@ -69,7 +69,7 @@
         ],
         "layout": {
           "direction": "column",
-          "isSymetricalForOpponents": true,
+          "isSymetricalForOpponents": false,
           "content": [
             {
               "direction": "row",
