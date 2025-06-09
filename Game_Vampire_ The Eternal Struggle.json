@@ -65,7 +65,7 @@
         "customSections": [
           "Ready",
           "Uncontrolled",
-          "Crypt",
+          "Vampire",
           "Torpor"
         ],
         "layout": {
@@ -77,7 +77,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "Crypt",
+                  "section": "Vampire",
                   "style": {
                     "width": "32vh"
                   }
