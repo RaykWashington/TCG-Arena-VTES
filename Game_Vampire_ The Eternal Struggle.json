@@ -37,15 +37,15 @@
       "mulligan": {
         "info": "",
         "startingHandSize": "7",
-        "drawNewHand": true,
+        "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
-        "firstPlayerTokenName": "Edge",
-        "drawPerTurn": "0"
+        "firstPlayerTokenName": "",
+        "drawPerTurn": ""
       },
       "defaultNotes": "",
       "tokens": [
@@ -53,11 +53,12 @@
           "name": "Edge",
           "image": "https://static.krcg.org/card/token/edge2.png",
           "isUnique": true,
-          "leavesAtEndOfTurn": true
+          "leavesAtEndOfTurn": false
         }
       ],
       "countersStartingValues": [
-        "30"
+        "30",
+        0
       ],
       "hideFacedDownCards": true,
       "sections": {
