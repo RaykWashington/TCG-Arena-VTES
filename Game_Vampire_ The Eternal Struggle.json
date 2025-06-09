@@ -37,7 +37,7 @@
       "mulligan": {
         "info": "",
         "startingHandSize": "7",
-        "drawNewHand": false,
+        "drawNewHand": true,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
@@ -45,7 +45,7 @@
         "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "Edge",
-        "drawPerTurn": 1
+        "drawPerTurn": "0"
       },
       "defaultNotes": "",
       "tokens": [
