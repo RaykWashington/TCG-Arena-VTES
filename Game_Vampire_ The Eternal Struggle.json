@@ -109,7 +109,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Crypt"
+          "Vampire"
         ],
         "autoPlayFromHand": {
           "Equipment": "Ready",
@@ -123,9 +123,7 @@
           "Reaction": "Stack",
           "Retainer": "Ready",
           "Conviction": "Ready",
-          "Vampire": "Uncontrolled",
-          "Crypt": "Uncontrolled",
-          "Imbued": "Uncontrolled"
+          "Vampire": "Uncontrolled"
         },
         "autoPlayFromStack": {
           "Equipment": "Ready",
@@ -139,9 +137,7 @@
           "Reaction": "Discard",
           "Retainer": "Ready",
           "Conviction": "Ready",
-          "Vampire": "Ready",
-          "Crypt": "Uncontrolled",
-          "Imbued": "Ready"
+          "Vampire": "Ready"
         },
         "sectionsDict": {
           "Hand": {
@@ -280,22 +276,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Crypt": {
-            "title": "Crypt",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Uncontrolled": {
             "title": "Uncontrolled",
             "isHidden": "opponent-only",
@@ -321,6 +301,22 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Vampire": {
+            "title": "Vampire",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Crypt",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
