@@ -620,71 +620,67 @@
       }
     ]
   }
-},
-{
-  "title": "",
-  "id": "c329114c-e0e9-48c5-8e5d-063dc0e3d622",
+},{
+  "title": "Assamite",
+  "id": "20115de2-68f3-4fb5-934e-af9594206840",
   "game": "Vampire The Eternal Struggle",
   "format": "Classic",
-  "cardCount": 78,
-  "createdAt": "2025-06-11T21:54:58.059Z",
-  "lastModifiedAt": "2025-06-11T23:17:14.820Z",
+  "cardCount": 82,
+  "createdAt": "2025-06-11T23:39:25.868Z",
+  "lastModifiedAt": "2025-06-11T23:39:42.660Z",
   "deckList": {
     "categoriesOrder": [
       "Vampire",
       "Master",
-      "Combat",
       "Action Modifier",
+      "Political Action",
       "Reaction",
-      "Action"
+      "Action",
+      "Event"
     ],
     "Sideboard": [],
     "Vampire": [
       {
+        "count": 2,
+        "id": "200053"
+      },
+      {
+        "count": 3,
+        "id": "200065"
+      },
+      {
         "count": 1,
-        "id": "200343"
+        "id": "200175"
+      },
+      {
+        "count": 1,
+        "id": "200676"
       },
       {
         "count": 2,
-        "id": "200517"
-      },
-      {
-        "count": 2,
-        "id": "200538"
-      },
-      {
-        "count": 2,
-        "id": "200929"
+        "id": "200748"
       },
       {
         "count": 1,
-        "id": "201073"
+        "id": "200981"
       },
       {
         "count": 1,
-        "id": "201089"
+        "id": "201078"
       },
       {
         "count": 1,
-        "id": "201182"
-      },
-      {
-        "count": 1,
-        "id": "201199"
-      },
-      {
-        "count": 1,
-        "id": "201503"
+        "id": "201426"
       }
     ],
     "Master": [
       {
-        "count": 1,
-        "id": "100108"
+        "count": 4,
+        "id": "100037"
       },
       {
-        "count": 1,
-        "id": "100135"
+        "count": 2,
+        "id": "100085"
       },
       {
         "count": 2,
@@ -692,95 +688,93 @@
       },
       {
         "count": 1,
-        "id": "100545"
+        "id": "100435"
+      },
+      {
+        "count": 2,
+        "id": "101042"
+      },
+      {
+        "count": 2,
+        "id": "101384"
       },
       {
         "count": 1,
-        "id": "100616"
+        "id": "102066"
       },
       {
         "count": 1,
-        "id": "100824"
-      },
-      {
-        "count": 1,
-        "id": "101155"
-      },
-      {
-        "count": 1,
-        "id": "101388"
-      },
-      {
-        "count": 1,
-        "id": "102151"
-      },
-      {
-        "count": 1,
-        "id": "102180"
-      }
-    ],
-    "Combat": [
-      {
-        "count": 5,
-        "id": "100149"
+        "id": "102201"
       }
     ],
     "Action Modifier": [
       {
-        "count": 2,
-        "id": "100323"
+        "count": 3,
+        "id": "100362"
       },
       {
-        "count": 4,
-        "id": "100401"
+        "count": 1,
+        "id": "100478"
       },
       {
-        "count": 4,
-        "id": "100617"
-      },
-      {
-        "count": 5,
+        "count": 3,
         "id": "100687"
       },
       {
-        "count": 6,
+        "count": 3,
         "id": "101125"
       },
       {
+        "count": 2,
+        "id": "101857"
+      },
+      {
+        "count": 2,
+        "id": "101913"
+      },
+      {
+        "count": 3,
+        "id": "102097"
+      }
+    ],
+    "Political Action": [
+      {
+        "count": 8,
+        "id": "100410"
+      },
+      {
+        "count": 2,
+        "id": "100414"
+      },
+      {
         "count": 4,
-        "id": "101712"
+        "id": "101056"
       }
     ],
     "Reaction": [
       {
-        "count": 5,
-        "id": "100518"
-      },
-      {
-        "count": 1,
+        "count": 3,
         "id": "100519"
-      },
-      {
-        "count": 1,
-        "id": "101259"
-      },
-      {
-        "count": 2,
-        "id": "101321"
-      },
-      {
-        "count": 2,
-        "id": "101949"
-      },
-      {
-        "count": 2,
-        "id": "102137"
       }
     ],
     "Action": [
       {
         "count": 12,
-        "id": "100845"
+        "id": "100633"
+      },
+      {
+        "count": 2,
+        "id": "101510"
+      },
+      {
+        "count": 6,
+        "id": "102165"
+      }
+    ],
+    "Event": [
+      {
+        "count": 1,
+        "id": "102057"
       }
     ]
   }
