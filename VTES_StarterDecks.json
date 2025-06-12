@@ -622,6 +622,783 @@
   }
 },
 {
+  "title": "",
+  "id": "c329114c-e0e9-48c5-8e5d-063dc0e3d622",
+  "game": "Vampire The Eternal Struggle",
+  "format": "Classic",
+  "cardCount": 78,
+  "createdAt": "2025-06-11T21:54:58.059Z",
+  "lastModifiedAt": "2025-06-11T23:17:14.820Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Vampire",
+      "Master",
+      "Combat",
+      "Action Modifier",
+      "Reaction",
+      "Action"
+    ],
+    "Sideboard": [],
+    "Vampire": [
+      {
+        "count": 1,
+        "id": "200343"
+      },
+      {
+        "count": 2,
+        "id": "200517"
+      },
+      {
+        "count": 2,
+        "id": "200538"
+      },
+      {
+        "count": 2,
+        "id": "200929"
+      },
+      {
+        "count": 1,
+        "id": "201073"
+      },
+      {
+        "count": 1,
+        "id": "201089"
+      },
+      {
+        "count": 1,
+        "id": "201182"
+      },
+      {
+        "count": 1,
+        "id": "201199"
+      },
+      {
+        "count": 1,
+        "id": "201503"
+      }
+    ],
+    "Master": [
+      {
+        "count": 1,
+        "id": "100108"
+      },
+      {
+        "count": 1,
+        "id": "100135"
+      },
+      {
+        "count": 2,
+        "id": "100199"
+      },
+      {
+        "count": 1,
+        "id": "100545"
+      },
+      {
+        "count": 1,
+        "id": "100616"
+      },
+      {
+        "count": 1,
+        "id": "100824"
+      },
+      {
+        "count": 1,
+        "id": "101155"
+      },
+      {
+        "count": 1,
+        "id": "101388"
+      },
+      {
+        "count": 1,
+        "id": "102151"
+      },
+      {
+        "count": 1,
+        "id": "102180"
+      }
+    ],
+    "Combat": [
+      {
+        "count": 5,
+        "id": "100149"
+      }
+    ],
+    "Action Modifier": [
+      {
+        "count": 2,
+        "id": "100323"
+      },
+      {
+        "count": 4,
+        "id": "100401"
+      },
+      {
+        "count": 4,
+        "id": "100617"
+      },
+      {
+        "count": 5,
+        "id": "100687"
+      },
+      {
+        "count": 6,
+        "id": "101125"
+      },
+      {
+        "count": 4,
+        "id": "101712"
+      }
+    ],
+    "Reaction": [
+      {
+        "count": 5,
+        "id": "100518"
+      },
+      {
+        "count": 1,
+        "id": "100519"
+      },
+      {
+        "count": 1,
+        "id": "101259"
+      },
+      {
+        "count": 2,
+        "id": "101321"
+      },
+      {
+        "count": 2,
+        "id": "101949"
+      },
+      {
+        "count": 2,
+        "id": "102137"
+      }
+    ],
+    "Action": [
+      {
+        "count": 12,
+        "id": "100845"
+      }
+    ]
+  }
+},
+{
+  "title": "Gangrel",
+  "id": "70393bb3-f852-4c77-a6df-784718e5ffdd",
+  "game": "Vampire The Eternal Struggle",
+  "format": "Classic",
+  "cardCount": 86,
+  "createdAt": "2025-06-11T23:20:02.884Z",
+  "lastModifiedAt": "2025-06-11T23:22:07.425Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Vampire",
+      "Master",
+      "Reaction",
+      "Action",
+      "Retainer",
+      "Combat"
+    ],
+    "Sideboard": [],
+    "Vampire": [
+      {
+        "count": 1,
+        "id": "200552"
+      },
+      {
+        "count": 1,
+        "id": "200606"
+      },
+      {
+        "count": 1,
+        "id": "200702"
+      },
+      {
+        "count": 1,
+        "id": "200839"
+      },
+      {
+        "count": 1,
+        "id": "200853"
+      },
+      {
+        "count": 1,
+        "id": "201307"
+      },
+      {
+        "count": 1,
+        "id": "201318"
+      },
+      {
+        "count": 1,
+        "id": "200185"
+      },
+      {
+        "count": 2,
+        "id": "200211"
+      },
+      {
+        "count": 1,
+        "id": "200214"
+      },
+      {
+        "count": 4,
+        "id": "200259"
+      }
+    ],
+    "Master": [
+      {
+        "count": 2,
+        "id": "100616"
+      },
+      {
+        "count": 2,
+        "id": "100698"
+      },
+      {
+        "count": 2,
+        "id": "100070"
+      },
+      {
+        "count": 1,
+        "id": "101067"
+      },
+      {
+        "count": 1,
+        "id": "100085"
+      },
+      {
+        "count": 1,
+        "id": "102113"
+      },
+      {
+        "count": 2,
+        "id": "100199"
+      }
+    ],
+    "Reaction": [
+      {
+        "count": 3,
+        "id": "100863"
+      },
+      {
+        "count": 4,
+        "id": "101321"
+      },
+      {
+        "count": 3,
+        "id": "100308"
+      }
+    ],
+    "Action": [
+      {
+        "count": 1,
+        "id": "100093"
+      },
+      {
+        "count": 6,
+        "id": "101972"
+      },
+      {
+        "count": 10,
+        "id": "100515"
+      }
+    ],
+    "Retainer": [
+      {
+        "count": 3,
+        "id": "101550"
+      },
+      {
+        "count": 1,
+        "id": "100568"
+      }
+    ],
+    "Combat": [
+      {
+        "count": 3,
+        "id": "101945"
+      },
+      {
+        "count": 15,
+        "id": "100029"
+      },
+      {
+        "count": 2,
+        "id": "100290"
+      },
+      {
+        "count": 9,
+        "id": "100301"
+      }
+    ]
+  }
+},
+{
+  "title": "Followers of Set",
+  "id": "a0f30c63-0eb5-42e4-a6d4-e8e089d4cda9",
+  "game": "Vampire The Eternal Struggle",
+  "format": "Classic",
+  "cardCount": 74,
+  "createdAt": "2025-06-12T00:12:04.372Z",
+  "lastModifiedAt": "2025-06-12T00:12:15.196Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Vampire",
+      "Ally",
+      "Master",
+      "Action Modifier",
+      "Reaction",
+      "Action",
+      "Event",
+      "Combat"
+    ],
+    "Sideboard": [],
+    "Vampire": [
+      {
+        "count": 1,
+        "id": "200029"
+      },
+      {
+        "count": 1,
+        "id": "200260"
+      },
+      {
+        "count": 1,
+        "id": "200295"
+      },
+      {
+        "count": 1,
+        "id": "200328"
+      },
+      {
+        "count": 1,
+        "id": "200414"
+      },
+      {
+        "count": 1,
+        "id": "200449"
+      },
+      {
+        "count": 1,
+        "id": "200594"
+      },
+      {
+        "count": 1,
+        "id": "200777"
+      },
+      {
+        "count": 1,
+        "id": "200809"
+      },
+      {
+        "count": 1,
+        "id": "201047"
+      },
+      {
+        "count": 1,
+        "id": "201229"
+      },
+      {
+        "count": 1,
+        "id": "201290"
+      }
+    ],
+    "Ally": [
+      {
+        "count": 1,
+        "id": "100042"
+      },
+      {
+        "count": 1,
+        "id": "101273"
+      },
+      {
+        "count": 1,
+        "id": "101527"
+      }
+    ],
+    "Master": [
+      {
+        "count": 2,
+        "id": "100199"
+      },
+      {
+        "count": 1,
+        "id": "100332"
+      },
+      {
+        "count": 1,
+        "id": "100449"
+      },
+      {
+        "count": 2,
+        "id": "100967"
+      },
+      {
+        "count": 1,
+        "id": "101019"
+      },
+      {
+        "count": 1,
+        "id": "101326"
+      },
+      {
+        "count": 3,
+        "id": "101373"
+      },
+      {
+        "count": 1,
+        "id": "100015"
+      }
+    ],
+    "Action Modifier": [
+      {
+        "count": 4,
+        "id": "100362"
+      },
+      {
+        "count": 1,
+        "id": "100617"
+      },
+      {
+        "count": 2,
+        "id": "100687"
+      },
+      {
+        "count": 1,
+        "id": "100769"
+      },
+      {
+        "count": 1,
+        "id": "100773"
+      },
+      {
+        "count": 2,
+        "id": "101125"
+      },
+      {
+        "count": 4,
+        "id": "101622"
+      }
+    ],
+    "Reaction": [
+      {
+        "count": 1,
+        "id": "100519"
+      },
+      {
+        "count": 2,
+        "id": "101321"
+      },
+      {
+        "count": 3,
+        "id": "101325"
+      },
+      {
+        "count": 2,
+        "id": "100295"
+      }
+    ],
+    "Action": [
+      {
+        "count": 2,
+        "id": "100650"
+      },
+      {
+        "count": 12,
+        "id": "100665"
+      },
+      {
+        "count": 2,
+        "id": "101134"
+      }
+    ],
+    "Event": [
+      {
+        "count": 1,
+        "id": "101265"
+      }
+    ],
+    "Combat": [
+      {
+        "count": 6,
+        "id": "101942"
+      },
+      {
+        "count": 1,
+        "id": "100005"
+      }
+    ]
+  }
+},
+{
+  "title": "Toreador",
+  "id": "032ccfdd-ecd3-470a-bbe1-d740745b1272",
+  "game": "Vampire The Eternal Struggle",
+  "format": "Classic",
+  "cardCount": 82,
+  "createdAt": "2025-06-12T00:00:19.996Z",
+  "lastModifiedAt": "2025-06-12T00:00:29.260Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Vampire",
+      "Equipment",
+      "Master",
+      "Political Action",
+      "Action Modifier",
+      "Combat",
+      "Action",
+      "Reaction"
+    ],
+    "Sideboard": [],
+    "Vampire": [
+      {
+        "count": 1,
+        "id": "200016"
+      },
+      {
+        "count": 4,
+        "id": "200049"
+      },
+      {
+        "count": 3,
+        "id": "200106"
+      },
+      {
+        "count": 4,
+        "id": "200107"
+      }
+    ],
+    "Equipment": [
+      {
+        "count": 4,
+        "id": "100001"
+      }
+    ],
+    "Master": [
+      {
+        "count": 2,
+        "id": "100018"
+      },
+      {
+        "count": 1,
+        "id": "100095"
+      },
+      {
+        "count": 2,
+        "id": "100188"
+      },
+      {
+        "count": 1,
+        "id": "100588"
+      },
+      {
+        "count": 2,
+        "id": "101217"
+      },
+      {
+        "count": 3,
+        "id": "102121"
+      },
+      {
+        "count": 4,
+        "id": "102207"
+      }
+    ],
+    "Political Action": [
+      {
+        "count": 1,
+        "id": "100065"
+      },
+      {
+        "count": 5,
+        "id": "101056"
+      },
+      {
+        "count": 1,
+        "id": "101271"
+      },
+      {
+        "count": 3,
+        "id": "101353"
+      }
+    ],
+    "Action Modifier": [
+      {
+        "count": 4,
+        "id": "100157"
+      },
+      {
+        "count": 2,
+        "id": "101387"
+      },
+      {
+        "count": 3,
+        "id": "101610"
+      },
+      {
+        "count": 3,
+        "id": "101712"
+      },
+      {
+        "count": 4,
+        "id": "102131"
+      }
+    ],
+    "Combat": [
+      {
+        "count": 2,
+        "id": "100392"
+      },
+      {
+        "count": 3,
+        "id": "101144"
+      }
+    ],
+    "Action": [
+      {
+        "count": 5,
+        "id": "100640"
+      },
+      {
+        "count": 1,
+        "id": "100652"
+      },
+      {
+        "count": 2,
+        "id": "101028"
+      }
+    ],
+    "Reaction": [
+      {
+        "count": 3,
+        "id": "101706"
+      },
+      {
+        "count": 4,
+        "id": "101949"
+      },
+      {
+        "count": 5,
+        "id": "102137"
+      }
+    ]
+  }
+},
+{
+  "title": "Ravnos",
+  "id": "80b06236-4eec-4c47-94c6-c3e0defb73c5",
+  "game": "Vampire The Eternal Struggle",
+  "format": "Classic",
+  "cardCount": 72,
+  "createdAt": "2025-06-11T23:24:55.828Z",
+  "lastModifiedAt": "2025-06-11T23:25:45.580Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Vampire",
+      "Master",
+      "Political Action",
+      "Action Modifier",
+      "Action"
+    ],
+    "Sideboard": [],
+    "Vampire": [
+      {
+        "count": 1,
+        "id": "200084"
+      },
+      {
+        "count": 1,
+        "id": "200098"
+      },
+      {
+        "count": 1,
+        "id": "200513"
+      },
+      {
+        "count": 1,
+        "id": "200778"
+      },
+      {
+        "count": 1,
+        "id": "200819"
+      },
+      {
+        "count": 1,
+        "id": "201224"
+      },
+      {
+        "count": 1,
+        "id": "201246"
+      },
+      {
+        "count": 1,
+        "id": "201264"
+      },
+      {
+        "count": 1,
+        "id": "201311"
+      },
+      {
+        "count": 1,
+        "id": "201391"
+      },
+      {
+        "count": 1,
+        "id": "201432"
+      },
+      {
+        "count": 1,
+        "id": "201507"
+      }
+    ],
+    "Master": [
+      {
+        "count": 1,
+        "id": "100058"
+      },
+      {
+        "count": 2,
+        "id": "101384"
+      },
+      {
+        "count": 5,
+        "id": "101553"
+      },
+      {
+        "count": 2,
+        "id": "102166"
+      }
+    ],
+    "Political Action": [
+      {
+        "count": 8,
+        "id": "100410"
+      }
+    ],
+    "Action Modifier": [
+      {
+        "count": 12,
+        "id": "100622"
+      }
+    ],
+    "Action": [
+      {
+        "count": 20,
+        "id": "100633"
+      },
+      {
+        "count": 10,
+        "id": "101248"
+      }
+    ]
+  }
+},
+{
   "title": "Caitiff",
   "id": "f19e048c-dc36-4dff-9fcc-c2d6fddd31c0",
   "game": "Vampire The Eternal Struggle",
