@@ -123,7 +123,8 @@
           "Reaction": "Stack",
           "Retainer": "Ready",
           "Conviction": "Ready",
-          "Vampire": "Uncontrolled"
+          "Vampire": "Uncontrolled",
+          "Crypt" : "Uncontrolled"
         },
         "autoPlayFromStack": {
           "Equipment": "Ready",
