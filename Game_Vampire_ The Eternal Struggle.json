@@ -312,17 +312,8 @@
             "title": "Vampire",
             "isHidden": "yes",
             "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Crypt",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "alignment": "DECK",
+            "displayedTitle": "Crypt"
           }
         }
       }
