@@ -15,7 +15,10 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://raykwashington.github.io/TCG-Arena-VTES/VTES_Cards.json",
-    "cardBack": "https://static.krcg.org/card/cardbacklibrary.jpg"
+    "cardBack": "https://static.krcg.org/card/cardbacklibrary.jpg",
+    "extraCardBacks" : {
+      "Crypt" : "https://static.krcg.org/card/cardbackcrypt.jpg"
+    }
   },
   "deckBuilding": {
     "mainFilters": [
