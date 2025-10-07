@@ -17,7 +17,9 @@
     "dataUrl": "https://raykwashington.github.io/TCG-Arena-VTES/VTES_Cards.json",
     "cardBack": "https://static.krcg.org/card/cardbacklibrary.jpg",
     "extraCardBacks" : {
-      "Crypt" : "https://static.krcg.org/card/cardbackcrypt.jpg"
+      "Crypt" : "https://static.krcg.org/card/cardbackcrypt.jpg",
+      "Vampire" : "https://static.krcg.org/card/cardbackcrypt.jpg",
+      "Imbued" : "https://static.krcg.org/card/cardbackcrypt.jpg"
     }
   },
   "deckBuilding": {
