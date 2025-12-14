@@ -61,6 +61,33 @@
           "leavesAtEndOfTurn": false
         }
       ],
+      "draggableTokens": [
+              {
+                  "id": "blood1",
+                  "name": "1 blood",
+                  "image": "https://raykwashington.github.io/TCG-Arena-VTES/images/images/blood_1.png"
+              },
+              {
+                  "id": "blood2",
+                  "name": "2 blood",
+                  "image": "https://raykwashington.github.io/TCG-Arena-VTES/images/images/blood_2.png"
+              },
+              {
+                  "id": "blood3",
+                  "name": "3 blood",
+                  "image": "https://raykwashington.github.io/TCG-Arena-VTES/images/images/blood_3.png"
+              },
+              {
+                  "id": "blood5",
+                  "name": "5 blood",
+                  "image": "https://raykwashington.github.io/TCG-Arena-VTES/images/images/blood_5.png"
+              },
+              {
+                  "id": "blood10",
+                  "name": "10 blood",
+                  "image": "https://raykwashington.github.io/TCG-Arena-VTES/images/images/blood_10.png"
+              }
+          ],
       "countersStartingValues": [
         "30",
         0
