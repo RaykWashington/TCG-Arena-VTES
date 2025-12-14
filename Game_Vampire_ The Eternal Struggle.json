@@ -145,7 +145,7 @@
         ],
         "autoPlayFromHand": {
           "Equipment": "Ready",
-          "Combat": "Ready",
+          "Combat": "Stack",
           "Power": "Ready",
           "Master": "Ready",
           "Event": "Ready",
@@ -160,7 +160,7 @@
         },
         "autoPlayFromStack": {
           "Equipment": "Ready",
-          "Combat": "Ready",
+          "Combat": "Discard",
           "Power": "Ready",
           "Master": "Ready",
           "Event": "Ready",
