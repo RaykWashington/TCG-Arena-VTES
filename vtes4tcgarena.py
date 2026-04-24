@@ -30,7 +30,7 @@ def fetch_cards_using_static():
 def transform_card(source_card):
     card_sets = source_card.get("sets", {})
     card_id = str(source_card.get("id", ""))
-    name = source_card.get("name", "").strip('"')
+    name = source_card.get("printed_name", "").strip('"')
     card_types = source_card.get("types", [])
     clans = source_card.get("clans", [])
     disciplines_list = source_card.get("disciplines", [])
@@ -40,14 +40,14 @@ def transform_card(source_card):
     pool_cost = source_card.get("pool_cost", "")
     capacity = check_capacity_value(source_card.get("capacity", 0))
     cost = blood_cost or pool_cost or capacity or 0
-    banned_date = source_card.get("banned_date", "")
+    banned_date = source_card.get("banned", "")
     classic_compatible = not bool(banned_date)
-
-    v5_compatible = any(
-        is_v5_compatible_item(item)
-        for items in card_sets.values()
-        for item in items
-    )
+    if not classic_compatible:
+        v5_compatible = any(
+            is_v5_compatible_item(item)
+            for items in card_sets.values()
+            for item in items
+        )
 
     original_type = card_types[0] if card_types else ""
     is_vampire = "Vampire" in card_types
@@ -97,8 +97,7 @@ def transform_card(source_card):
         "disciplines": disciplines,
         "_legal": {
             "CLASSIC": classic_compatible,
-            "V5": v5_compatible,
-            "2P": False
+            "V5": v5_compatible
         }
     }
     return target_card
