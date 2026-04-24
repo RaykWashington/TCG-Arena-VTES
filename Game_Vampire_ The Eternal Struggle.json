@@ -14,7 +14,7 @@
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://raykwashington.github.io/TCG-Arena-VTES/VTES_Cards.json",
+    "dataUrl": "https://cdn.discordapp.com/attachments/1038070784876355599/1496256298839314545/CardList.json?ex=69e938c4&is=69e7e744&hm=0cee7909c205491435b418162e41f04e86fc26ef14a974863edb61166de406fc&",
     "cardBack": "https://static.krcg.org/card/cardbacklibrary.jpg",
     "extraCardBacks" : {
       "Crypt" : "https://static.krcg.org/card/cardbackcrypt.jpg",
@@ -31,14 +31,21 @@
     ],
     "formats": [
       {
-        "title": "Classic",
-        "gameplay": "Classic",
+        "title": "Standard",
+        "gameplay": "Standard",
+        "legalityCode": "STD",
+        "customCategories": []
+      },
+      {
+        "title": "V5",
+        "gameplay": "Standard",
+        "legalityCode": "V5",
         "customCategories": []
       }
     ]
   },
   "gameplay": {
-    "Classic": {
+    "Standard": {
       "mulligan": {
         "info": "",
         "startingHandSize": "7",
