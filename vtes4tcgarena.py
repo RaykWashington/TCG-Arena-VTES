@@ -3,6 +3,8 @@ import datetime
 import requests
 import os
 
+# TODO: Remember to update GAME file urls before merging with main
+
 def main():
     fetch_cards_using_static()
     convert_json_file("vtes.json", "VTES_Cards.json")

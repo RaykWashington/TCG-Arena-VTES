@@ -9,7 +9,7 @@
       "https://vtes.global/playmats/V9-Global.jpg",
       "https://vtes.global/playmats/V2-Global.jpg"
     ],
-    "decksUrl": "https://raykwashington.github.io/TCG-Arena-VTES/VTES_StarterDecks.json"
+    "decksUrl": "https://raw.githubusercontent.com/RaykWashington/TCG-Arena-VTES/refs/heads/vtes-v5/VTES_StarterDecks.json"
   },
   "customHelp": "",
   "cardRotation": "90",
