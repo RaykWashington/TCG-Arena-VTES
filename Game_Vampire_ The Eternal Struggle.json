@@ -31,21 +31,27 @@
     ],
     "formats": [
       {
-        "title": "Standard",
-        "gameplay": "Standard",
-        "legalityCode": "STD",
+        "title": "Classic",
+        "gameplay": "Classic",
+        "legalityCode": "CLASSIC",
         "customCategories": []
       },
       {
         "title": "V5",
-        "gameplay": "Standard",
+        "gameplay": "Classic",
         "legalityCode": "V5",
+        "customCategories": []
+      },
+      {
+        "title": "2P",
+        "gameplay": "Classic",
+        "legalityCode": "2P",
         "customCategories": []
       }
     ]
   },
   "gameplay": {
-    "Standard": {
+    "Classic": {
       "mulligan": {
         "info": "",
         "startingHandSize": "7",
