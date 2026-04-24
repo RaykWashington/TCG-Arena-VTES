@@ -42,12 +42,13 @@ def transform_card(source_card):
     cost = blood_cost or pool_cost or capacity or 0
     banned_date = source_card.get("banned", "")
     classic_compatible = not bool(banned_date)
-    if not classic_compatible:
-        v5_compatible = any(
-            is_v5_compatible_item(item)
-            for items in card_sets.values()
-            for item in items
-        )
+    v5_compatible = any(
+        is_v5_compatible_item(item)
+        for items in card_sets.values()
+        for item in items
+    )
+    if v5_compatible and not classic_compatible:
+        v5_compatible = False
 
     original_type = card_types[0] if card_types else ""
     is_vampire = "Vampire" in card_types
