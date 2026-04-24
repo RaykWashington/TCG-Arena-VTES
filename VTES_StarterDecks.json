@@ -1788,5 +1788,625 @@
       }
     ]
   }
+},
+  {
+    "title": "Malkavian (V5)",
+    "id": "fe4b7c3d-d8a4-48ae-92d5-ea2594b6ce9a",
+    "cardCount": 89,
+    "createdAt": "2026-04-24T17:11:09.772Z",
+    "lastModifiedAt": "2026-04-24T17:16:16.095Z",
+    "game": "Vampire The Eternal Struggle",
+    "format": [
+      "V5"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Vampire",
+        "Master",
+        "Action",
+        "Action Modifier",
+        "Reaction"
+      ],
+      "Vampire": [
+        {
+          "count": 2,
+          "id": "201530"
+        },
+        {
+          "count": 2,
+          "id": "201532"
+        },
+        {
+          "count": 2,
+          "id": "201544"
+        },
+        {
+          "count": 1,
+          "id": "201548"
+        },
+        {
+          "count": 1,
+          "id": "201543"
+        },
+        {
+          "count": 1,
+          "id": "201546"
+        },
+        {
+          "count": 1,
+          "id": "201569"
+        },
+        {
+          "count": 1,
+          "id": "201533"
+        },
+        {
+          "count": 1,
+          "id": "201559"
+        }
+      ],
+      "Master": [
+        {
+          "count": 1,
+          "id": "100108"
+        },
+        {
+          "count": 1,
+          "id": "100135"
+        },
+        {
+          "count": 4,
+          "id": "100199"
+        },
+        {
+          "count": 1,
+          "id": "100588"
+        },
+        {
+          "count": 1,
+          "id": "100620"
+        },
+        {
+          "count": 2,
+          "id": "101104"
+        },
+        {
+          "count": 1,
+          "id": "102180"
+        }
+      ],
+      "Action": [
+        {
+          "count": 12,
+          "id": "100845"
+        },
+        {
+          "count": 4,
+          "id": "101627"
+        }
+      ],
+      "Action Modifier": [
+        {
+          "count": 4,
+          "id": "100236"
+        },
+        {
+          "count": 4,
+          "id": "100362"
+        },
+        {
+          "count": 4,
+          "id": "100401"
+        },
+        {
+          "count": 4,
+          "id": "100687"
+        },
+        {
+          "count": 2,
+          "id": "100765"
+        },
+        {
+          "count": 4,
+          "id": "101125"
+        },
+        {
+          "count": 4,
+          "id": "101857"
+        },
+        {
+          "count": 4,
+          "id": "101913"
+        }
+      ],
+      "Reaction": [
+        {
+          "count": 5,
+          "id": "100518"
+        },
+        {
+          "count": 5,
+          "id": "100680"
+        },
+        {
+          "count": 5,
+          "id": "101321"
+        },
+        {
+          "count": 5,
+          "id": "101949"
+        }
+      ]
+    }
+  },
+    {
+  "title": "Toreador (V5)",
+  "id": "9a98a358-3e24-4313-893c-9a59e5b0484b",
+  "cardCount": 79,
+  "createdAt": "2026-04-24T15:36:36.161Z",
+  "lastModifiedAt": "2026-04-24T15:40:56.342Z",
+  "game": "Vampire The Eternal Struggle",
+  "format": [
+    "V5"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Vampire",
+      "Master",
+      "Action",
+      "Political Action",
+      "Action Modifier"
+    ],
+    "Vampire": [
+      {
+        "count": 2,
+        "id": "201540"
+      },
+      {
+        "count": 2,
+        "id": "201547"
+      },
+      {
+        "count": 2,
+        "id": "201561"
+      },
+      {
+        "count": 1,
+        "id": "201552"
+      },
+      {
+        "count": 1,
+        "id": "201571"
+      },
+      {
+        "count": 1,
+        "id": "201538"
+      },
+      {
+        "count": 1,
+        "id": "201558"
+      },
+      {
+        "count": 1,
+        "id": "201560"
+      },
+      {
+        "count": 1,
+        "id": "201564"
+      }
+    ],
+    "Master": [
+      {
+        "count": 1,
+        "id": "100095"
+      },
+      {
+        "count": 1,
+        "id": "100444"
+      },
+      {
+        "count": 1,
+        "id": "100632"
+      },
+      {
+        "count": 1,
+        "id": "101821"
+      },
+      {
+        "count": 4,
+        "id": "101989"
+      },
+      {
+        "count": 6,
+        "id": "102121"
+      }
+    ],
+    "Action": [
+      {
+        "count": 6,
+        "id": "100640"
+      }
+    ],
+    "Political Action": [
+      {
+        "count": 4,
+        "id": "100410"
+      },
+      {
+        "count": 8,
+        "id": "101056"
+      },
+      {
+        "count": 4,
+        "id": "101353"
+      },
+      {
+        "count": 1,
+        "id": "101990"
+      }
+    ],
+    "Action Modifier": [
+      {
+        "count": 2,
+        "id": "100031"
+      },
+      {
+        "count": 4,
+        "id": "100157"
+      },
+      {
+        "count": 2,
+        "id": "100323"
+      },
+      {
+        "count": 4,
+        "id": "101387"
+      },
+      {
+        "count": 6,
+        "id": "102131"
+      },
+      {
+        "count": 8,
+        "id": "101610"
+      },
+      {
+        "count": 4,
+        "id": "101686"
+      }
+    ]
+  }
+},
+  {
+  "title": "Tremere (V5)",
+  "id": "b97f7eba-d31b-427e-983f-c80c34191f48",
+  "cardCount": 89,
+  "createdAt": "2026-04-24T15:21:14.757Z",
+  "lastModifiedAt": "2026-04-24T15:26:24.642Z",
+  "game": "Vampire The Eternal Struggle",
+  "format": [
+    "V5"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Vampire",
+      "Master",
+      "Action",
+      "Equipment",
+      "Action Modifier",
+      "Combat",
+      "Reaction"
+    ],
+    "Vampire": [
+      {
+        "count": 2,
+        "id": "201535"
+      },
+      {
+        "count": 2,
+        "id": "201551"
+      },
+      {
+        "count": 2,
+        "id": "201572"
+      },
+      {
+        "count": 1,
+        "id": "201556"
+      },
+      {
+        "count": 1,
+        "id": "201542"
+      },
+      {
+        "count": 1,
+        "id": "201566"
+      },
+      {
+        "count": 1,
+        "id": "201554"
+      },
+      {
+        "count": 1,
+        "id": "201563"
+      },
+      {
+        "count": 1,
+        "id": "201567"
+      }
+    ],
+    "Master": [
+      {
+        "count": 1,
+        "id": "100015"
+      },
+      {
+        "count": 1,
+        "id": "100081"
+      },
+      {
+        "count": 1,
+        "id": "100329"
+      },
+      {
+        "count": 1,
+        "id": "101225"
+      },
+      {
+        "count": 1,
+        "id": "101384"
+      },
+      {
+        "count": 4,
+        "id": "102113"
+      },
+      {
+        "count": 1,
+        "id": "102152"
+      },
+      {
+        "count": 1,
+        "id": "102180"
+      }
+    ],
+    "Action": [
+      {
+        "count": 12,
+        "id": "100845"
+      },
+      {
+        "count": 2,
+        "id": "101143"
+      }
+    ],
+    "Equipment": [
+      {
+        "count": 1,
+        "id": "100001"
+      },
+      {
+        "count": 1,
+        "id": "100243"
+      },
+      {
+        "count": 1,
+        "id": "101040"
+      },
+      {
+        "count": 1,
+        "id": "101856"
+      }
+    ],
+    "Action Modifier": [
+      {
+        "count": 6,
+        "id": "100236"
+      },
+      {
+        "count": 6,
+        "id": "101223"
+      }
+    ],
+    "Combat": [
+      {
+        "count": 4,
+        "id": "100077"
+      },
+      {
+        "count": 10,
+        "id": "101966"
+      }
+    ],
+    "Reaction": [
+      {
+        "count": 4,
+        "id": "100518"
+      },
+      {
+        "count": 6,
+        "id": "100680"
+      },
+      {
+        "count": 4,
+        "id": "101321"
+      },
+      {
+        "count": 2,
+        "id": "101475"
+      },
+      {
+        "count": 2,
+        "id": "101850"
+      },
+      {
+        "count": 4,
+        "id": "101949"
+      }
+    ]
+  }
+},
+  {
+  "title": "Ventrue (V5)",
+  "id": "5a5063d1-242c-48b4-b49b-5ac2610d959d",
+  "cardCount": 89,
+  "createdAt": "2026-04-24T15:10:30.982Z",
+  "lastModifiedAt": "2026-04-24T15:19:10.455Z",
+  "game": "Vampire The Eternal Struggle",
+  "format": [
+    "V5"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Combat",
+      "Master",
+      "Reaction",
+      "Action Modifier",
+      "Political Action",
+      "Vampire",
+      "Action"
+    ],
+    "Combat": [
+      {
+        "count": 4,
+        "id": "100918"
+      },
+      {
+        "count": 6,
+        "id": "101144"
+      }
+    ],
+    "Master": [
+      {
+        "count": 1,
+        "id": "100058"
+      },
+      {
+        "count": 1,
+        "id": "102109"
+      },
+      {
+        "count": 1,
+        "id": "102126"
+      },
+      {
+        "count": 3,
+        "id": "100199"
+      },
+      {
+        "count": 1,
+        "id": "100984"
+      },
+      {
+        "count": 1,
+        "id": "101225"
+      },
+      {
+        "count": 1,
+        "id": "102084"
+      },
+      {
+        "count": 2,
+        "id": "102180"
+      }
+    ],
+    "Reaction": [
+      {
+        "count": 4,
+        "id": "101706"
+      },
+      {
+        "count": 4,
+        "id": "102137"
+      },
+      {
+        "count": 6,
+        "id": "100518"
+      }
+    ],
+    "Action Modifier": [
+      {
+        "count": 6,
+        "id": "100788"
+      },
+      {
+        "count": 4,
+        "id": "100157"
+      },
+      {
+        "count": 2,
+        "id": "102131"
+      },
+      {
+        "count": 1,
+        "id": "100492"
+      },
+      {
+        "count": 4,
+        "id": "100401"
+      }
+    ],
+    "Political Action": [
+      {
+        "count": 7,
+        "id": "101056"
+      },
+      {
+        "count": 5,
+        "id": "101353"
+      },
+      {
+        "count": 1,
+        "id": "100065"
+      }
+    ],
+    "Vampire": [
+      {
+        "count": 2,
+        "id": "201570"
+      },
+      {
+        "count": 1,
+        "id": "201529"
+      },
+      {
+        "count": 1,
+        "id": "201541"
+      },
+      {
+        "count": 1,
+        "id": "201562"
+      },
+      {
+        "count": 1,
+        "id": "201565"
+      },
+      {
+        "count": 1,
+        "id": "201539"
+      },
+      {
+        "count": 2,
+        "id": "201550"
+      },
+      {
+        "count": 2,
+        "id": "201531"
+      },
+      {
+        "count": 1,
+        "id": "201557"
+      }
+    ],
+    "Action": [
+      {
+        "count": 8,
+        "id": "100640"
+      },
+      {
+        "count": 4,
+        "id": "100999"
+      }
+    ]
+  }
 }
 ]
