@@ -39,7 +39,7 @@ def transform_card(source_card):
     capacity = check_capacity_value(source_card.get("capacity", 0))
     cost = blood_cost or pool_cost or capacity or 0
     banned_date = source_card.get("banned_date", "")
-    standard_compatible = not bool(banned_date)
+    classic_compatible = not bool(banned_date)
 
     v5_compatible = any(
         is_v5_compatible_item(item)
@@ -94,8 +94,9 @@ def transform_card(source_card):
         "cost": cost,
         "disciplines": disciplines,
         "_legal": {
-            "STD": standard_compatible,
-            "V5": v5_compatible
+            "CLASSIC": classic_compatible,
+            "V5": v5_compatible,
+            "2P": False
         }
     }
     return target_card
