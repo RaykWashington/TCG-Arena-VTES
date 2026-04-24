@@ -1,0 +1,19 @@
+[project]
+name = 'TCG-Arena-VTES'
+version = '1'
+authors = [
+  {name='RaykWashington'}, {name='ThatRandomOllieGuy'}
+]
+description = 'VTES card data generator for TCG Arena'
+readme = 'README.md'
+requires-python = '>=3.14'
+classifiers = [
+    'Programming Language :: Python :: 3',
+    'Operating System :: OS Independent',
+]
+dependencies = [
+    'requests'
+]
+
+[project.scripts]
+vtes4tcgarena = 'vtes4tcgarena:main'

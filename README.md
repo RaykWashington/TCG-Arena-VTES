@@ -34,7 +34,7 @@ python -m venv venv
 
 ~~~
 # Windows:
-venv\Scripts\activate
+.venv\Scripts\activate
 # Linux:
 source venv/bin/activate
 ~~~
@@ -56,5 +56,3 @@ vtes4tcgarena
 * Rayk (Original creator)
 
 * Ollie (Maintainer)
-Untitled.md
-2 KB
