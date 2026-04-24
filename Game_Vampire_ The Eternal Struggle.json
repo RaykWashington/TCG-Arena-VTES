@@ -14,7 +14,7 @@
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/RaykWashington/TCG-Arena-VTES/refs/heads/main/VTES_Cards.json",
+    "dataUrl": "https://raw.githubusercontent.com/RaykWashington/TCG-Arena-VTES/refs/heads/vtes-v5/VTES_Cards.json",
     "cardBack": "https://static.krcg.org/card/cardbacklibrary.jpg",
     "extraCardBacks" : {
       "Crypt" : "https://static.krcg.org/card/cardbackcrypt.jpg",
