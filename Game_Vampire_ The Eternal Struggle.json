@@ -33,6 +33,13 @@
       {
         "title": "Classic",
         "gameplay": "Classic",
+        "legalityCode": "CLASSIC",
+        "customCategories": []
+      },
+      {
+        "title": "V5",
+        "gameplay": "Classic",
+        "legalityCode": "V5",
         "customCategories": []
       }
     ]
