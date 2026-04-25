@@ -82,7 +82,10 @@ def extract_capacity(source_card):
     return check_capacity_value(source_card.get("capacity", 0))
 
 def extract_clans(source_card):
-    return source_card.get("clans", [])
+    clans = source_card.get("clans", [])
+    clan = " ".join(clans) if clans else ""
+    return clan
+
 
 def extract_group(source_card):
     group_raw = source_card.get("group", "0")
@@ -151,7 +154,8 @@ def transform_disciplines(source_card, discipline_map):
     for code in disciplines_list:
         code = code.lower()
         reformatted_disciplines_list.append(discipline_map.get(code, code))
-    return [reformatted_disciplines_list]
+    disciplines = " ".join(reformatted_disciplines_list) if reformatted_disciplines_list else ""
+    return disciplines
 
 def determine_legal_status(source_card):
     banned_date = source_card.get("banned", "")
