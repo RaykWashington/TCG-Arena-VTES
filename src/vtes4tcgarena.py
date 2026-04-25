@@ -147,7 +147,11 @@ def build_card_face(source_card):
 
 def transform_disciplines(source_card, discipline_map):
     disciplines_list = source_card.get("disciplines", [])
-    return [discipline_map.get(code, code) for code in disciplines_list]
+    reformatted_disciplines_list = []
+    for code in disciplines_list:
+        code = code.lower()
+        reformatted_disciplines_list.append(discipline_map.get(code, code))
+    return [reformatted_disciplines_list]
 
 def determine_legal_status(source_card):
     banned_date = source_card.get("banned", "")
