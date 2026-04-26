@@ -1,0 +1,38 @@
+name: Update VTES Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install dependencies (Editable Mode)
+        # This installs the package and its dependencies from pyproject.toml
+        run: |
+          pip install -e .
+
+      - name: Run CLI Tool
+        # Now you can use the custom command
+        run: |
+          vtes4tcgarena
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add VTES_Cards.json
+          git diff --quiet && git diff --staged --quiet || (
+            git commit -m "Auto-update VTES cards data [skip ci]"
+            git push
+          )
