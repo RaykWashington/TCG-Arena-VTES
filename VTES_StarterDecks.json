@@ -1939,10 +1939,10 @@
       ]
     }
   },
-    {
+{
   "title": "Toreador (V5)",
   "id": "9a98a358-3e24-4313-893c-9a59e5b0484b",
-  "cardCount": 79,
+  "cardCount": 89,
   "createdAt": "2026-04-24T15:36:36.161Z",
   "lastModifiedAt": "2026-04-24T15:40:56.342Z",
   "game": "Vampire The Eternal Struggle",
@@ -1955,7 +1955,9 @@
       "Master",
       "Action",
       "Political Action",
-      "Action Modifier"
+      "Action Modifier",
+      "Combat",
+      "Reaction"
     ],
     "Vampire": [
       {
@@ -2073,6 +2075,18 @@
       {
         "count": 4,
         "id": "101686"
+      }
+    ],
+    "Combat": [
+      {
+        "count": 6,
+        "id": "101144"
+      }
+    ],
+    "Reaction": [
+      {
+        "count": 4,
+        "id": "101706"
       }
     ]
   }
@@ -2584,6 +2598,556 @@
       {
         "count": 4,
         "id": "102216"
+      }
+    ]
+  }
+},
+  {
+  "title": "Gangrel (V5)",
+  "id": "ed7571e2-a47e-48b0-8360-6383d0e125ec",
+  "cardCount": 89,
+  "createdAt": "2026-04-26T14:58:24.211Z",
+  "lastModifiedAt": "2026-04-26T15:03:30.273Z",
+  "game": "Vampire The Eternal Struggle",
+  "format": [
+    "V5"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Vampire",
+      "Master",
+      "Action",
+      "Ally",
+      "Retainer",
+      "Action Modifier",
+      "Combat",
+      "Reaction"
+    ],
+    "Vampire": [
+      {
+        "count": 2,
+        "id": "201602"
+      },
+      {
+        "count": 2,
+        "id": "201601"
+      },
+      {
+        "count": 1,
+        "id": "200303"
+      },
+      {
+        "count": 1,
+        "id": "201583"
+      },
+      {
+        "count": 1,
+        "id": "201597"
+      },
+      {
+        "count": 1,
+        "id": "201590"
+      },
+      {
+        "count": 1,
+        "id": "201606"
+      },
+      {
+        "count": 1,
+        "id": "201592"
+      },
+      {
+        "count": 1,
+        "id": "201595"
+      },
+      {
+        "count": 1,
+        "id": "201611"
+      }
+    ],
+    "Master": [
+      {
+        "count": 1,
+        "id": "100054"
+      },
+      {
+        "count": 1,
+        "id": "100126"
+      },
+      {
+        "count": 4,
+        "id": "100199"
+      },
+      {
+        "count": 1,
+        "id": "100609"
+      },
+      {
+        "count": 1,
+        "id": "100698"
+      },
+      {
+        "count": 1,
+        "id": "100897"
+      },
+      {
+        "count": 1,
+        "id": "101536"
+      },
+      {
+        "count": 1,
+        "id": "101811"
+      },
+      {
+        "count": 1,
+        "id": "102212"
+      }
+    ],
+    "Action": [
+      {
+        "count": 2,
+        "id": "100416"
+      },
+      {
+        "count": 6,
+        "id": "100515"
+      },
+      {
+        "count": 1,
+        "id": "101632"
+      },
+      {
+        "count": 4,
+        "id": "101972"
+      }
+    ],
+    "Ally": [
+      {
+        "count": 1,
+        "id": "102220"
+      }
+    ],
+    "Retainer": [
+      {
+        "count": 2,
+        "id": "101254"
+      },
+      {
+        "count": 2,
+        "id": "101550"
+      }
+    ],
+    "Action Modifier": [
+      {
+        "count": 4,
+        "id": "100600"
+      },
+      {
+        "count": 2,
+        "id": "102223"
+      }
+    ],
+    "Combat": [
+      {
+        "count": 2,
+        "id": "100145"
+      },
+      {
+        "count": 6,
+        "id": "100301"
+      },
+      {
+        "count": 2,
+        "id": "100356"
+      },
+      {
+        "count": 2,
+        "id": "102225"
+      },
+      {
+        "count": 4,
+        "id": "100918"
+      }
+    ],
+    "Reaction": [
+      {
+        "count": 4,
+        "id": "100308"
+      },
+      {
+        "count": 6,
+        "id": "102219"
+      },
+      {
+        "count": 6,
+        "id": "102222"
+      },
+      {
+        "count": 5,
+        "id": "101321"
+      },
+      {
+        "count": 4,
+        "id": "101501"
+      }
+    ]
+  }
+},
+  {
+  "title": "Brujah (V5)",
+  "id": "13b1f96a-74a3-43c4-9c76-75f1f9d644c1",
+  "cardCount": 89,
+  "createdAt": "2026-04-26T14:53:09.485Z",
+  "lastModifiedAt": "2026-04-26T14:57:46.189Z",
+  "game": "Vampire The Eternal Struggle",
+  "format": [
+    "V5"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Vampire",
+      "Master",
+      "Action",
+      "Ally",
+      "Action Modifier",
+      "Combat",
+      "Reaction"
+    ],
+    "Vampire": [
+      {
+        "count": 1,
+        "id": "201613"
+      },
+      {
+        "count": 2,
+        "id": "201576"
+      },
+      {
+        "count": 1,
+        "id": "201614"
+      },
+      {
+        "count": 2,
+        "id": "201579"
+      },
+      {
+        "count": 1,
+        "id": "201609"
+      },
+      {
+        "count": 1,
+        "id": "201581"
+      },
+      {
+        "count": 1,
+        "id": "201612"
+      },
+      {
+        "count": 1,
+        "id": "201585"
+      },
+      {
+        "count": 1,
+        "id": "200132"
+      },
+      {
+        "count": 1,
+        "id": "201610"
+      }
+    ],
+    "Master": [
+      {
+        "count": 1,
+        "id": "100052"
+      },
+      {
+        "count": 4,
+        "id": "100199"
+      },
+      {
+        "count": 1,
+        "id": "100297"
+      },
+      {
+        "count": 1,
+        "id": "100303"
+      },
+      {
+        "count": 1,
+        "id": "100698"
+      },
+      {
+        "count": 1,
+        "id": "100794"
+      },
+      {
+        "count": 1,
+        "id": "100866"
+      },
+      {
+        "count": 1,
+        "id": "100897"
+      },
+      {
+        "count": 1,
+        "id": "102150"
+      }
+    ],
+    "Action": [
+      {
+        "count": 6,
+        "id": "100640"
+      },
+      {
+        "count": 2,
+        "id": "100913"
+      },
+      {
+        "count": 6,
+        "id": "102229"
+      },
+      {
+        "count": 2,
+        "id": "101772"
+      }
+    ],
+    "Ally": [
+      {
+        "count": 1,
+        "id": "102217"
+      }
+    ],
+    "Action Modifier": [
+      {
+        "count": 2,
+        "id": "101239"
+      }
+    ],
+    "Combat": [
+      {
+        "count": 4,
+        "id": "100597"
+      },
+      {
+        "count": 6,
+        "id": "100959"
+      },
+      {
+        "count": 2,
+        "id": "101523"
+      },
+      {
+        "count": 5,
+        "id": "101532"
+      },
+      {
+        "count": 4,
+        "id": "102215"
+      },
+      {
+        "count": 4,
+        "id": "101798"
+      },
+      {
+        "count": 4,
+        "id": "101945"
+      },
+      {
+        "count": 5,
+        "id": "101993"
+      }
+    ],
+    "Reaction": [
+      {
+        "count": 2,
+        "id": "102218"
+      },
+      {
+        "count": 2,
+        "id": "100519"
+      },
+      {
+        "count": 2,
+        "id": "101321"
+      },
+      {
+        "count": 6,
+        "id": "102230"
+      }
+    ]
+  }
+},
+  {
+  "title": "Banu Haqim (V5)",
+  "id": "23fa8a60-2d7b-44ad-9533-87a6095f634f",
+  "cardCount": 89,
+  "createdAt": "2026-04-26T14:47:16.235Z",
+  "lastModifiedAt": "2026-04-26T14:52:52.562Z",
+  "game": "Vampire The Eternal Struggle",
+  "format": [
+    "V5"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Vampire",
+      "Master",
+      "Action",
+      "Political Action",
+      "Retainer",
+      "Action Modifier",
+      "Combat",
+      "Reaction"
+    ],
+    "Vampire": [
+      {
+        "count": 1,
+        "id": "201598"
+      },
+      {
+        "count": 1,
+        "id": "201587"
+      },
+      {
+        "count": 2,
+        "id": "201604"
+      },
+      {
+        "count": 1,
+        "id": "201596"
+      },
+      {
+        "count": 1,
+        "id": "201599"
+      },
+      {
+        "count": 2,
+        "id": "201594"
+      },
+      {
+        "count": 1,
+        "id": "201578"
+      },
+      {
+        "count": 1,
+        "id": "201589"
+      },
+      {
+        "count": 1,
+        "id": "201607"
+      },
+      {
+        "count": 1,
+        "id": "201580"
+      }
+    ],
+    "Master": [
+      {
+        "count": 4,
+        "id": "102226"
+      },
+      {
+        "count": 1,
+        "id": "101171"
+      },
+      {
+        "count": 4,
+        "id": "101487"
+      },
+      {
+        "count": 1,
+        "id": "101958"
+      },
+      {
+        "count": 1,
+        "id": "102066"
+      },
+      {
+        "count": 4,
+        "id": "102121"
+      }
+    ],
+    "Action": [
+      {
+        "count": 1,
+        "id": "100162"
+      },
+      {
+        "count": 2,
+        "id": "100747"
+      },
+      {
+        "count": 4,
+        "id": "102228"
+      },
+      {
+        "count": 1,
+        "id": "101664"
+      }
+    ],
+    "Political Action": [
+      {
+        "count": 2,
+        "id": "101353"
+      }
+    ],
+    "Retainer": [
+      {
+        "count": 1,
+        "id": "101249"
+      }
+    ],
+    "Action Modifier": [
+      {
+        "count": 2,
+        "id": "101610"
+      },
+      {
+        "count": 6,
+        "id": "101913"
+      }
+    ],
+    "Combat": [
+      {
+        "count": 2,
+        "id": "100208"
+      },
+      {
+        "count": 5,
+        "id": "100744"
+      },
+      {
+        "count": 10,
+        "id": "102227"
+      },
+      {
+        "count": 4,
+        "id": "101523"
+      },
+      {
+        "count": 4,
+        "id": "101532"
+      },
+      {
+        "count": 2,
+        "id": "101588"
+      },
+      {
+        "count": 2,
+        "id": "101829"
+      },
+      {
+        "count": 2,
+        "id": "102139"
+      }
+    ],
+    "Reaction": [
+      {
+        "count": 4,
+        "id": "101321"
+      },
+      {
+        "count": 8,
+        "id": "101706"
       }
     ]
   }
