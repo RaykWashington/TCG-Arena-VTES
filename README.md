@@ -20,7 +20,7 @@ This guide contains steps you need to get the data generator working locally on 
 
 ### Dependencies
 
-* Python v3.12.7 or later
+* Python v3.14 or later
 
 ### Installing
 
