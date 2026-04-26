@@ -2,7 +2,7 @@ name: Update VTES Cards
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * 0'
   workflow_dispatch:
 
 jobs:
@@ -18,12 +18,10 @@ jobs:
           python-version: '3.14'
 
       - name: Install dependencies (Editable Mode)
-        # This installs the package and its dependencies from pyproject.toml
         run: |
           pip install -e .
 
       - name: Run CLI Tool
-        # Now you can use the custom command
         run: |
           vtes4tcgarena
 
